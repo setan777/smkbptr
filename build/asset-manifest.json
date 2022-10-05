@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ppdbp0/static/css/main.c16bd3c2.chunk.css",
+    "main.js": "/ppdbp0/static/js/main.fd2ef0f4.chunk.js",
+    "main.js.map": "/ppdbp0/static/js/main.fd2ef0f4.chunk.js.map",
+    "runtime-main.js": "/ppdbp0/static/js/runtime-main.ebacb069.js",
+    "runtime-main.js.map": "/ppdbp0/static/js/runtime-main.ebacb069.js.map",
+    "static/js/2.2d2699c6.chunk.js": "/ppdbp0/static/js/2.2d2699c6.chunk.js",
+    "static/js/2.2d2699c6.chunk.js.map": "/ppdbp0/static/js/2.2d2699c6.chunk.js.map",
+    "index.html": "/ppdbp0/index.html",
+    "precache-manifest.278abfed288e82260e4ec68fc2b4577a.js": "/ppdbp0/precache-manifest.278abfed288e82260e4ec68fc2b4577a.js",
+    "service-worker.js": "/ppdbp0/service-worker.js",
+    "static/css/main.c16bd3c2.chunk.css.map": "/ppdbp0/static/css/main.c16bd3c2.chunk.css.map",
+    "static/js/2.2d2699c6.chunk.js.LICENSE.txt": "/ppdbp0/static/js/2.2d2699c6.chunk.js.LICENSE.txt",
+    "static/media/IllustratorBiodata.svg": "/ppdbp0/static/media/IllustratorBiodata.0ad866d6.svg",
+    "static/media/IllustratorFront.png": "/ppdbp0/static/media/IllustratorFront.5b61a38a.png",
+    "static/media/IllustratorRegister.svg": "/ppdbp0/static/media/IllustratorRegister.140912a7.svg",
+    "static/media/IlustratorSeleksi.svg": "/ppdbp0/static/media/IlustratorSeleksi.59e9b73d.svg",
+    "static/media/style.css": "/ppdbp0/static/media/header.ceb36eac.svg",
+    "static/media/hero_illustrator.svg": "/ppdbp0/static/media/hero_illustrator.a1b21337.svg",
+    "static/media/png-elementary-school-primary-education-high-school-school-class-logo-high-school-elementary-school-clipart.png": "/ppdbp0/static/media/png-elementary-school-primary-education-high-school-school-class-logo-high-school-elementary-school-clipart.6ba9b87f.png",
+    "static/media/user_group_two_color.svg": "/ppdbp0/static/media/user_group_two_color.d5b4f14d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebacb069.js",
+    "static/js/2.2d2699c6.chunk.js",
+    "static/css/main.c16bd3c2.chunk.css",
+    "static/js/main.fd2ef0f4.chunk.js"
+  ]
+}
